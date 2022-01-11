@@ -1,0 +1,11 @@
+/node_modules
+/.vscode
+/yarn-error.log
+
+tmp/*
+!tmp/.gitkeeps
+
+.env
+
+
+ormconfig.json
